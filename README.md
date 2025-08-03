@@ -16,7 +16,8 @@ This repo contains reverse-engineered versions of the **Perplexity AI** app (`v2
 ## ⚠️ You may need to pause play protect scanning for Android 13+
 
 ---
-
+## 📥 [Download from Releases](https://github.com/kaifcodec/perplexity-ai-ssl-unpinned/releases/tag/v2.51.2)
+---
 ## 🔐 SHA-1 Hashes
 
 Verify file integrity using:
