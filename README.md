@@ -72,7 +72,8 @@ This allows full interception and analysis of all network traffic, including HTT
 All rights to the original app belong to Perplexity AI, Inc.
 Do not use these files for commercial redistribution, impersonation, or malicious purposes.
 > The author will not be responsible for any type of data loss or bans.
-> If you use this beyond personal use the will not be responsible for any type of harm you cause.
+
+> If you use this beyond personal use the author will not be responsible for any type of harm you cause.
 
 
 
@@ -82,7 +83,7 @@ Do not use these files for commercial redistribution, impersonation, or maliciou
 
 These APKs are not modified beyond what’s stated.
 
-If you’re the app developer and want this taken down, feel free to reach out via GitHub issues.
+If you’re the app developer and want this taken down, feel free to reach out via GitHub issues or email directly to me kaifcodec@gmail.com
 
 
 
