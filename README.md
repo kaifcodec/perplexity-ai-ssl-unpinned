@@ -53,6 +53,10 @@ This allows full interception and analysis of all network traffic, including HTT
 
 ---
 
+# ⭐ To patch your own APK checkout the repo [ssl-unpin-patch-apk](https://github.com/kaifcodec/ssl-unpin-patch-apk.git")
+
+---
+
 # 🧪 Use Cases
 
 - 🔍 API reverse engineering
