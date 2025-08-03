@@ -13,6 +13,9 @@ This repo contains reverse-engineered versions of the **Perplexity AI** app (`v2
 | `Perplexity_ai_2.51.2_ssl_unpinned.apk` | 🔓 SSL Pinning removed — ready for MITM, Frida, Burp, etc. |
 
 ---
+## ⚠️ You may need to pause play protect scanning for Android 13+
+
+---
 
 ## 🔐 SHA-1 Hashes
 
@@ -27,7 +30,7 @@ Perplexity_2.51.2(spilt_apk).apk+	1528868c5f9789cb78e2948003a245a73d389478
 Perplexity_ai_2.51.2_ssl_unpinned.apk	9c5ae23d928a18d69970c686ecea0ff272a98587
 Perlexity_ai_antisplit.apk	996a39623ea7f8f88c894bf15714f2a67b93ab29
 
-
+```
 
 ---
 
@@ -49,15 +52,15 @@ This allows full interception and analysis of all network traffic, including HTT
 
 ---
 
-🧪 Use Cases
+# 🧪 Use Cases
 
-🔍 API reverse engineering
+- 🔍 API reverse engineering
 
-🧪 App traffic analysis
+- 🧪 App traffic analysis
 
-⚙️ Custom automation or AI interaction scripts
+- ⚙️ Custom automation or AI interaction scripts
 
-🔐 Certificate trust debugging on Android
+- 🔐 Certificate trust debugging on Android
 
 
 
@@ -68,7 +71,8 @@ This allows full interception and analysis of all network traffic, including HTT
 > This repo is provided strictly for educational, research, and debugging purposes.
 All rights to the original app belong to Perplexity AI, Inc.
 Do not use these files for commercial redistribution, impersonation, or malicious purposes.
-
+> The author will not be responsible for any type of data loss or bans.
+> If you use this beyond personal use the will not be responsible for any type of harm you cause.
 
 
 
